@@ -9,7 +9,3 @@
 **Quick Sort**
   - O(n^2) in the worst case
   - O(n * log(n)) best and average case
-
-**Binary Search**
- -
- -
