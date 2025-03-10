@@ -1,1 +1,1 @@
-- Algorithms mergesort , quicksort and binary serch implemented.
+- Algorithms mergesort , quicksort and binary search implemented.
