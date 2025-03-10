@@ -1,9 +1,9 @@
 # Divide and Conquer algorithms
-- mergesort , quicksort and binary search implemented.
+- **Merge Sort**, **Quick Sort** and **Binary Search** implemented.
 
 ## Runing Time
 
-**Quick Sort**
+**Merge Sort**
   - O(n * log(n)) best and average case
 
 **Quick Sort**
